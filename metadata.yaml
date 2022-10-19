@@ -1,0 +1,26 @@
+_repo: The-O-S-U-Naturalist-Vol-1-No-4-February-1901_69092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-10-04'
+identifiers:
+  gutenberg: '69092'
+language: en
+pgterms:marc905: 20161111115244various
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Biological Club of the Ohio State University,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The O. S. U. Naturalist, Vol. 1, No. 4, February 1901
+url: http://www.gutenberg.org/ebooks/69092
