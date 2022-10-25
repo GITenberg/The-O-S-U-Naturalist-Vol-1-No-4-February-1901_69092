@@ -1,5 +1,8 @@
 _repo: The-O-S-U-Naturalist-Vol-1-No-4-February-1901_69092
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69092-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69092#The-O-S-U-Naturalist-Vol-1-No-4-February-1901
 gutenberg_issued: '2022-10-04'
 identifiers:
   gutenberg: '69092'
